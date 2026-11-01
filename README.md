@@ -4,6 +4,8 @@
 
 # 玄学生活指南
 
+**不劝你信，也不劝你不信——先看看书里到底怎么说，用不用你自己定。**
+
 讲睡不好、咳嗽、牙痛、肠胃不舒服、腰酸背痛时，书里有哪些家常办法可以先试。讲家里风水先查什么、查到了怎么调，挪东西、动土挑哪天。讲怎么从八字、名字、手机号、头像看人看自己。也讲起了情绪怎么转念，找"大师"看事怎么不被骗。<br>
 353 条方法，每条写明用来做什么、怎么做、要注意什么、出自原书第几章。书里没写用量的，直接写"书里没写"，不编。
 
@@ -221,9 +223,18 @@
 
 书中插图版权归原作者所有，不在上面的许可范围内，转载插图请先征得原作者同意。
 
-代码（tools/、skills/）用 [MIT](LICENSE-CODE)。
+代码（tools/、skills/）用 [Apache License 2.0](LICENSE-CODE)：可以自由使用、修改、商用，再分发时请保留 [NOTICE](NOTICE) 里的署名。
 
-本指南由**半对实验室 halfrightlab** 整理，Claude Code 协助：逐章阅读、提炼方法、核对出处和章节号、生成目录。取舍和审定由维护者负责。
+## 贡献者
+
+| | 谁 | 干了什么 |
+|---|---|---|
+| 🧑‍🔬 | [半对实验室 halfrightlab](https://github.com/halfrightlab) | 选书、取舍、审定，错了算它的 |
+| 🤖 | [Claude](https://github.com/claude)（Anthropic） | 逐章阅读、提炼方法、核对出处和章节号、生成目录 |
+| 🤖 | [Codex / ChatGPT](https://github.com/codex)（OpenAI） | 编程助手，查书 skill 也支持在 Codex 里用 |
+| 🤖 | WorkBuddy | 编程助手 |
+
+发现哪条写错了、章节号对不上，或者想推荐下一本书，欢迎[提 issue](https://github.com/halfrightlab/xuanxue-life-guide/issues)。
 
 ## Star 走势
 

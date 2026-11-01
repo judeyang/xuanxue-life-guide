@@ -86,4 +86,4 @@ xuanxue-life-guide/
 
 ---
 
-半对实验室 halfrightlab 出品 · 代码 [MIT](../../LICENSE-CODE) · 来源《改命记实录》
+半对实验室 halfrightlab 出品 · 代码 [Apache 2.0](../../LICENSE-CODE) · 来源《改命记实录》
