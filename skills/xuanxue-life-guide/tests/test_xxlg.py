@@ -1,4 +1,4 @@
-"""玄学生活指南 skill 自测 · 半对实验室 halfrightlab
+"""玄学生活指南 skill 自测 · 半对实验室 judeyang
 运行：python3 -m unittest discover -s tests   （在 skill 目录下）
 用例都取自书里给的例子，或公认的农历日期。"""
 import datetime as dt

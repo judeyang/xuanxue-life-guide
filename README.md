@@ -11,7 +11,7 @@
 
 不用全做：这是一份备选单，不是任务清单——遇到哪件事，查哪一条就行。
 
-这是民俗文化的整理，不是医疗、法律或投资建议。身体不舒服先看医生，偏方、象数最多当辅助。整理难免有错漏，发现了欢迎[提 issue](https://github.com/halfrightlab/xuanxue-life-guide/issues)。
+这是民俗文化的整理，不是医疗、法律或投资建议。身体不舒服先看医生，偏方、象数最多当辅助。整理难免有错漏，发现了欢迎[提 issue](https://github.com/judeyang/xuanxue-life-guide/issues)。
 
 第一个来源是道之光的《改命记实录》，以后会陆续加入其他书。
 
@@ -217,7 +217,7 @@
 
 整理的文字（book/、docs/、chapters/ 和本 README）用 [CC BY-NC-SA 4.0](LICENSE) 发布：可以转载、改编，但要做到三件事：
 
-- 写明出处：「玄学生活指南」，附上仓库链接 https://github.com/halfrightlab/xuanxue-life-guide 。
+- 写明出处：「玄学生活指南」，附上仓库链接 https://github.com/judeyang/xuanxue-life-guide 。
 - 不用于商业用途。
 - 改编后的内容用同样的许可发布。
 
@@ -229,13 +229,13 @@
 
 | | 谁 | 干了什么 |
 |---|---|---|
-| 🧑‍🔬 | [半对实验室 halfrightlab](https://github.com/halfrightlab) | 选书、取舍、审定，错了算它的 |
+| 🧑‍🔬 | [半对实验室 judeyang](https://github.com/judeyang) | 选书、取舍、审定，错了算它的 |
 | 🤖 | [Claude](https://github.com/claude)（Anthropic） | 逐章阅读、提炼方法、核对出处和章节号、生成目录 |
 | 🤖 | [Codex / ChatGPT](https://github.com/codex)（OpenAI） | 编程助手，查书 skill 也支持在 Codex 里用 |
 | 🤖 | WorkBuddy | 编程助手 |
 
-发现哪条写错了、章节号对不上，或者想推荐下一本书，欢迎[提 issue](https://github.com/halfrightlab/xuanxue-life-guide/issues)。
+发现哪条写错了、章节号对不上，或者想推荐下一本书，欢迎[提 issue](https://github.com/judeyang/xuanxue-life-guide/issues)。
 
 ## Star 走势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=halfrightlab/xuanxue-life-guide&type=Date)](https://star-history.com/#halfrightlab/xuanxue-life-guide&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=judeyang/xuanxue-life-guide&type=Date)](https://star-history.com/#judeyang/xuanxue-life-guide&Date)

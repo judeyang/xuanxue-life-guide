@@ -1,4 +1,4 @@
-# 玄学生活指南 skill · 半对实验室 halfrightlab
+# 玄学生活指南 skill · 半对实验室 judeyang
 
 让 Claude Code、Codex 这类 AI 助手照着《玄学生活指南》回答问题：先查书、再算数、最后用大白话答，每一句都注明出自第几节第几条、原书第几章。书里没写的，直说没写，不编用量、不编日子。
 
@@ -31,7 +31,7 @@
 想在任何目录下都能用：
 
 ```bash
-git clone --depth 1 https://github.com/halfrightlab/xuanxue-life-guide.git ~/.cache/xuanxue-life-guide
+git clone --depth 1 https://github.com/judeyang/xuanxue-life-guide.git ~/.cache/xuanxue-life-guide
 mkdir -p ~/.claude/skills
 cp -r ~/.cache/xuanxue-life-guide/skills/xuanxue-life-guide ~/.claude/skills/
 ```
@@ -45,7 +45,7 @@ cp -r ~/.cache/xuanxue-life-guide/skills/xuanxue-life-guide ~/.claude/skills/
 想在任何目录下都能用，复制到 Codex 的个人 skill 目录：
 
 ```bash
-git clone --depth 1 https://github.com/halfrightlab/xuanxue-life-guide.git ~/.cache/xuanxue-life-guide
+git clone --depth 1 https://github.com/judeyang/xuanxue-life-guide.git ~/.cache/xuanxue-life-guide
 mkdir -p ~/.agents/skills
 cp -r ~/.cache/xuanxue-life-guide/skills/xuanxue-life-guide ~/.agents/skills/
 ```
@@ -86,4 +86,4 @@ xuanxue-life-guide/
 
 ---
 
-半对实验室 halfrightlab 出品 · 代码 [Apache 2.0](../../LICENSE-CODE) · 来源《改命记实录》
+半对实验室 judeyang 出品 · 代码 [Apache 2.0](../../LICENSE-CODE) · 来源《改命记实录》

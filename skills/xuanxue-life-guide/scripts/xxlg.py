@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""玄学生活指南 查书与计算工具 · 半对实验室 halfrightlab
+"""玄学生活指南 查书与计算工具 · 半对实验室 judeyang
 
 只用 Python 3.8+ 标准库。所有规则来自《改命记实录》，出处写在每个命令的输出里。
 
@@ -37,8 +37,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import cal  # noqa: E402
 
-BRAND = '玄学生活指南 · 半对实验室 halfrightlab'
-REPO = 'https://github.com/halfrightlab/xuanxue-life-guide.git'
+BRAND = '玄学生活指南 · 半对实验室 judeyang'
+REPO = 'https://github.com/judeyang/xuanxue-life-guide.git'
 CACHE = Path(os.environ.get('XDG_CACHE_HOME', Path.home() / '.cache')) / 'xuanxue-life-guide'
 SRC = '《改命记实录》'
 
